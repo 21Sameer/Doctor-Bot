@@ -1,0 +1,235 @@
+{
+    "diseases": [
+      {
+        "name": "Malaria",
+        "symptoms": ["fever", "fatigue", "vomiting", "headaches"],
+        "medicines": ["Artem Ds Plus", "Basoquin 150 mg"]
+      },
+      {
+        "name": "Dengue fever",
+        "symptoms": ["fever", "chills", "headache", "muscle aches", "tiredness", "nausea", "vomiting", "diarrhea"],
+        "medicines": ["Panadol", "Peditral ORS", "Titain Injection"]
+      },
+      {
+        "name": "Stroke",
+        "symptoms": ["weakness in the face, arm, or leg", "confusion", "trouble speaking", "difficulty understanding speech"],
+        "medicines": ["Disprin", "Warfarin", "Lipitor", "Zestril"]
+      },
+      {
+        "name": "Diarrhoea",
+        "symptoms": ["blood in the stool", "pus in the stool", "painful passage of stool", "repeated vomiting", "inability to increase fluid intake", "reduced or absent urination"],
+        "medicines": ["Imodium", "Lomotil", "Ciprofloxacin", "Flagyl", "Zentel"]
+      },
+      {
+        "name": "Tuberculosis (TB)",
+        "symptoms": ["fever", "night sweats", "weight loss", "weakness", "fatigue", "loss of appetite", "general feeling of illness"],
+        "medicines": ["Rifadin", "Myambutol", "Stebax"]
+      },
+      {
+        "name": "Typhoid Fever",
+        "symptoms": ["fever", "chills", "headache", "weakness", "fatigue", "muscle aches", "stomach pain", "diarrhea", "constipation", "rash"],
+        "medicines": ["Rocephin", "Ciprofloxacin", "Azithro", "Amoxil"]
+      },
+      {
+        "name": "Diabetes",
+        "symptoms": ["increased urination", "feeling very thirsty", "feeling very hungry", "blurred vision", "fatigue", "sores that do not heal", "frequent infections"],
+        "medicines": ["Novorapid", "Aspart", "Humalog"]
+      },
+      {
+        "name": "Fever",
+        "symptoms": ["flushed face", "hot skin", "low urine output", "loss of appetite", "headache"],
+        "medicines": ["Panadol", "Calpol", "Brufen"]
+      },
+      {
+        "name": "Flu",
+        "symptoms": ["fever", "chills", "cough", "sore throat", "runny or stuffy nose", "muscle or body aches"],
+        "medicines": ["Panadol", "Dolo 650", "Calpol", "Brufen"]
+      },
+      {
+        "name": "Pneumonia",
+        "symptoms": ["difficulty breathing", "bluish color in lips and fingertips", "chest pain", "high fever", "cough with mucus"],
+        "medicines": ["Amoxil", "Zithromax", "Azithral"]
+      },
+      {
+        "name": "Chickenpox",
+        "symptoms": ["rash that develops into itchy blisters and eventually scabs"],
+        "medicines": ["Zovirax", "Valtrex", "Famvir"]
+      },
+      {
+        "name": "Malaria",
+        "symptoms": ["fever", "fatigue", "vomiting", "headaches"],
+        "medicines": ["Artem Ds Plus", "Basoquin 150 mg"]
+      },
+      {
+        "name": "COVID-19",
+        "symptoms": ["cough", "fever", "difficulty breathing", "loss of taste or smell"],
+        "medicines": ["Paracetamol", "Azithromycin", "Vitamin C supplements"]
+      },
+      {
+        "name": "Food Poisoning",
+        "symptoms": ["stomach pain", "diarrhea", "nausea", "fever"],
+        "medicines": ["ORS", "Metronidazole", "Probiotics"]
+      },
+      {
+        "name": "Common Cold",
+        "symptoms": ["runny nose", "sore throat", "sneezing", "mild fever"],
+        "medicines": ["Antihistamines", "Paracetamol", "Cough Syrup"]
+      },
+      {
+        "name": "Heart Attack",
+        "symptoms": ["chest pain", "shortness of breath", "fatigue", "dizziness"],
+        "medicines": ["Aspirin", "Nitroglycerin", "Beta-blockers"]
+      },
+      {
+        "name": "Dengue",
+        "symptoms": ["joint pain", "rash", "mild fever", "headaches"],
+        "medicines": ["Acetaminophen", "Electrolyte Solution", "Fluids"]
+      },
+      {
+        "name": "Diabetes",
+        "symptoms": ["frequent urination", "increased thirst", "fatigue", "blurred vision"],
+        "medicines": ["Metformin", "Insulin", "Glipizide"]
+      },
+      {
+        "name": "Tuberculosis",
+        "symptoms": ["persistent cough", "chest pain", "weight loss", "night sweats"],
+        "medicines": ["Rifampin", "Isoniazid", "Ethambutol"]
+      },
+      {
+        "name": "Dandruff",
+        "symptoms": ["itchy scalp", "white flakes", "dry skin", "redness"],
+        "medicines": ["Ketoconazole Shampoo", "Zinc Pyrithione Shampoo", "Coal Tar Shampoo"]
+      },
+      {
+        "name": "Chickenpox",
+        "symptoms": ["rash", "blisters", "pain", "fever"],
+        "medicines": ["Acyclovir", "Calamine Lotion", "Antihistamines"]
+      },
+      {
+        "name": "Mononucleosis",
+        "symptoms": ["high fever", "sore throat", "swollen lymph nodes", "fatigue"],
+        "medicines": ["Ibuprofen", "Paracetamol", "Hydration"]
+      },
+      {
+        "name": "Urinary Tract Infection (UTI)",
+        "symptoms": ["burning sensation while urinating", "cloudy urine", "lower abdominal pain"],
+        "medicines": ["Nitrofurantoin", "Trimethoprim", "Ciprofloxacin"]
+      },
+      {
+        "name": "Scabies",
+        "symptoms": ["rash", "intense itching", "small blisters", "red spots"],
+        "medicines": ["Permethrin Cream", "Ivermectin", "Crotamiton"]
+      },
+      {
+        "name": "Genital Herpes",
+        "symptoms": ["painful urination", "genital sores", "flu-like symptoms"],
+        "medicines": ["Acyclovir", "Valacyclovir", "Famciclovir"]
+      },
+      {
+        "name": "Arthritis",
+        "symptoms": ["pain in joints", "swelling", "redness", "stiffness"],
+        "medicines": ["Ibuprofen", "Methotrexate", "Etanercept"]
+      },
+      {
+        "name": "Hepatitis B",
+        "symptoms": ["nausea", "yellowing of skin and eyes", "dark urine", "fatigue"],
+        "medicines": ["Entecavir", "Tenofovir", "Interferon Alpha"]
+      },
+      {
+        "name": "Acid Reflux (GERD)",
+        "symptoms": ["difficulty swallowing", "heartburn", "regurgitation of food"],
+        "medicines": ["Omeprazole", "Ranitidine", "Esomeprazole"]
+      },
+      {
+        "name": "Allergic Rhinitis",
+        "symptoms": ["sneezing", "itchy eyes", "runny nose", "congestion"],
+        "medicines": ["Antihistamines", "Loratadine", "Nasal Corticosteroids"]
+      },
+      {
+        "name": "Asthma",
+        "symptoms": ["dry cough", "shortness of breath", "fatigue", "wheezing"],
+        "medicines": ["Albuterol", "Fluticasone", "Montelukast"]
+      },
+      {
+        "name": "Crohn's Disease",
+        "symptoms": ["persistent diarrhea", "abdominal pain", "weight loss", "fatigue"],
+        "medicines": ["Mesalamine", "Azathioprine", "Infliximab"]
+      },
+      {
+        "name": "Eczema",
+        "symptoms": ["rash", "facial redness", "dry skin", "itching"],
+        "medicines": ["Hydrocortisone Cream", "Tacrolimus", "Antihistamines"]
+      },
+      {
+        "name": "Anemia",
+        "symptoms": ["frequent nosebleeds", "easy bruising", "pale skin", "fatigue"],
+        "medicines": ["Iron Supplements", "Folic Acid", "Vitamin B12"]
+      },
+      {
+        "name": "Migraine",
+        "symptoms": ["severe headache", "sensitivity to light", "nausea", "visual disturbances"],
+        "medicines": ["Sumatriptan", "Rizatriptan", "Propranolol"]
+      },
+      {
+        "name": "Gout",
+        "symptoms": ["severe joint pain", "swelling", "stiffness", "fever"],
+        "medicines": ["Allopurinol", "Colchicine", "NSAIDs"]
+      },
+      {
+        "name": "Depression",
+        "symptoms": ["persistent sadness", "loss of interest", "fatigue", "difficulty sleeping"],
+        "medicines": ["Sertraline", "Fluoxetine", "Escitalopram"]
+      },
+      {
+        "name": "Irritable Bowel Syndrome (IBS)",
+        "symptoms": ["abdominal pain", "bloating", "diarrhea or constipation"],
+        "medicines": ["Hyoscine", "Loperamide", "Peppermint Oil"]
+      },
+      {
+        "name": "Type 1 Diabetes",
+        "symptoms": ["unexplained weight loss", "frequent infections", "fatigue", "excessive thirst"],
+        "medicines": ["Insulin Injections", "Metformin", "Dapagliflozin"]
+      },
+      {
+        "name": "Lung Cancer",
+        "symptoms": ["persistent coughing", "coughing up blood", "chest pain", "fatigue"],
+        "medicines": ["Cisplatin", "Erlotinib", "Immunotherapy Drugs"]
+      },
+      {
+        "name": "Meningitis",
+        "symptoms": ["stiff neck", "high fever", "headache", "sensitivity to light"],
+        "medicines": ["Ceftriaxone", "Vancomycin", "Dexamethasone"]
+      },
+      {
+        "name": "Multiple Sclerosis",
+        "symptoms": ["numbness", "vision problems", "muscle weakness", "difficulty walking"],
+        "medicines": ["Interferon Beta", "Dimethyl Fumarate", "Glatiramer Acetate"]
+      },
+      {
+        "name": "Chronic Obstructive Pulmonary Disease (COPD)",
+        "symptoms": ["persistent dry cough", "fatigue", "shortness of breath", "chest tightness"],
+        "medicines": ["Tiotropium", "Salmeterol", "Ipratropium"]
+      },
+      {
+        "name": "Appendicitis",
+        "symptoms": ["nausea", "abdominal pain", "vomiting", "loss of appetite"],
+        "medicines": ["Pain Relievers", "Antibiotics (before surgery)"]
+      },
+      {
+        "name": "Ulcerative Colitis",
+        "symptoms": ["blood in stool", "abdominal pain", "diarrhea", "fatigue"],
+        "medicines": ["Mesalamine", "Prednisone", "Infliximab"]
+      },
+      {
+        "name": "Peptic Ulcer",
+        "symptoms": ["burning pain in chest", "regurgitation of food", "bitter taste in mouth"],
+        "medicines": ["Omeprazole", "Lansoprazole", "Ranitidine"]
+      },
+      {
+        "name": "Dehydration",
+        "symptoms": ["intense thirst", "dry mouth", "muscle cramps", "confusion"],
+        "medicines": ["Oral Rehydration Salts (ORS)", "IV Fluids"]
+      } 
+      
+    ]
+}
